@@ -1,0 +1,21 @@
+"venv/"
+"__pycache__/"
+"*.json"
+
+# IDE-asetukset (esim. PyCharm)
+.idea/
+
+# Ympäristömuuttujatiedostot
+.env
+
+# Python-välimuistit ja väliaikaiset tiedostot
+*.py[cod]
+*.pyo
+*.log
+
+# Power BI -tilapäistiedostot
+*.pbix
+
+# Tietokanta- tai salausavaimet
+*.key
+*.pfx
